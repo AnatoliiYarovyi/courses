@@ -1,0 +1,27 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Udemi course graphql. Api movies by graphql",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliiYarovyi/movies-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnatoliiYarovyi/movies-graphql/issues"
+  },
+  "homepage": "https://github.com/AnatoliiYarovyi/movies-graphql#readme",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-yoga": "^3.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
